@@ -16,4 +16,5 @@ Key Features:
 
 • Rounds the result to two decimal places for clarity
 
+
 This project is part of the 100 Days of Code – Python Bootcamp, designed to strengthen understanding of Python basics and build confidence in creating interactive command-line applications.
