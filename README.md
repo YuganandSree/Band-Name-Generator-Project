@@ -37,12 +37,12 @@ Through these projects, I practiced and improved my understanding of:
 ## Project Structure
 
 python-daily-projects
-│
-├── project-1
-├── project-2
-├── project-3
-├── project-4
-└── project-5
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
+- Project 6 so on....
 
 More projects will be added as I continue practicing Python and building new applications.
 
