@@ -47,13 +47,11 @@ if want_to_play == "y":
             new_card = random.choice(cards)
             computer_cards.append(new_card)
             sum_of_computer_cards = sum(computer_cards)
-
             # Handle Ace
             if sum_of_computer_cards > 21 and 11 in computer_cards:
                 computer_cards.remove(11)
                 computer_cards.append(1)
                 sum_of_computer_cards = sum(computer_cards)
-
     # 🎯 FINAL RESULT
     print("\nFinal Results:")
     print(f"Your cards: {user_cards}, total: {sum_of_user_cards}")
