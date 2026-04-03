@@ -6,6 +6,8 @@ Each project focuses on practicing core programming concepts such as user input 
 
 More projects will be added regularly as part of continuous learning and daily coding practice.
 
+These type of projects are helping me to build my coding skills in Python through which i can easly edapt real world problem solving situations.
+
 ## Features
 
 - Collection of beginner-friendly Python mini projects
